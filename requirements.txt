@@ -70,7 +70,7 @@ scipy==0.13.0b1
 shutilwhich==1.1.0
 six==1.11.0
 tensorflow==0.10.0
-urllib3==1.22
+urllib3==1.26.5
 watchdog==0.8.3
 WebOb==1.7.4
 wikipedia==1.4.0
